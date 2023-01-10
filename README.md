@@ -1,36 +1,13 @@
-#  Food ordering system
+#  Food Ordering App
 
 
 
-## Create an app for Food ordering system with help of State management system. You can use either Provider of GetX as a state management system. Also for database, you can either choose SQLite or Fireabse Firestore.
-- Use attached images for reference. And implement all features shown in images functionality-wise.
+## Apply a coupon on any product for discounted price. Pre-generate coupons and store it in local DB and set their limited quantity. Once a coupon's quantity exhauted, one cannot use that coupon anymore and display a proper response.
 
 
-<img src="https://user-images.githubusercontent.com/113710907/210943165-ffa2ea17-7b52-4183-8fdd-a2a371ef373a.mp4" width="400">
+<img src="https://user-images.githubusercontent.com/113701720/211605913-2e032e6e-5ef3-453a-821b-18b1b35b3889.png" width="400">
+<img src="https://user-images.githubusercontent.com/113701720/211605929-7a3b9af0-c819-47af-8796-e534f748dc37.png" width="400">
+<img src="https://user-images.githubusercontent.com/113701720/211605937-4b40b5a6-9b3a-4166-8722-a8c70e16f75c.png" width="400">
+<img src="https://user-images.githubusercontent.com/113701720/211605943-a8d46776-3ac4-41fd-951e-8ff046afc8f5.png" width="400">
+<img src="https://user-images.githubusercontent.com/113701720/211605945-b68991fa-c418-4f95-bcc3-0d8e5c244aee.png" width="400">
 
-<img src="https://user-images.githubusercontent.com/113710907/210943151-43489d43-ef33-4d66-a67b-af8067293a02.jpg" width="400">
-<img src="https://user-images.githubusercontent.com/113710907/210943159-10fdcfbd-a93f-464f-b6d5-168f5484f9cd.jpg" width="400">
-
-<img src="https://user-images.githubusercontent.com/113710907/210943163-ff1f4b4d-07dd-41d2-8c83-5ed13b545522.jpg" width="400">
-<img src="https://user-images.githubusercontent.com/113710907/210943192-ee80fdb6-fafe-407d-9796-3d3eac708445.jpg" width="400">
-
-
-
-
-
-
-
-
-
-
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
